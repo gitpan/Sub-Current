@@ -1,6 +1,6 @@
 package Sub::Current;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 require XSLoader;
 XSLoader::load('Sub::Current', $VERSION);
 

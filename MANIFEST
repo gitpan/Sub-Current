@@ -11,4 +11,5 @@ t/04maincv.t
 t/05proto.t
 t/06eval.t
 t/07recurse.t
+t/08anon.t
 t/50pod.t
